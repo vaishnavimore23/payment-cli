@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+
+# Build folders (if accidentally created)
+bin/
+out/
+target/
